@@ -1,6 +1,7 @@
 # webpack_configure
-webpack配置项目  
-第一步  
-$ npm install  
-第二步  
-$ npm run start
+## webpack配置项目  
+### 项目运行  
+```
+npm install  
+npm run start
+```
